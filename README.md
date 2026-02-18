@@ -1,4 +1,4 @@
-# About Me
+# Grei Mediea
 
 Hi, I'm Shepherd Griffin 👋
 Technical Marketing Engineer | Systems Architect | TPM
