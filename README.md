@@ -1,4 +1,4 @@
-# Grei Media
+# About
 
 Hi, I'm Shepherd Griffin 👋
 Technical Marketing Engineer | Systems Architect | TPM
