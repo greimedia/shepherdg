@@ -1,6 +1,7 @@
 # About
 
 Hi, I'm Shepherd Griffin 👋
+
 Technical Marketing Engineer | Systems Architect | TPM
 
 I specialize in bridging the gap between complex hardware architectures and operational excellence.
