@@ -1,4 +1,4 @@
-# Grei Mediea
+# Grei Media
 
 Hi, I'm Shepherd Griffin 👋
 Technical Marketing Engineer | Systems Architect | TPM
